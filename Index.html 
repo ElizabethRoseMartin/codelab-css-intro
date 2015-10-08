@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <img src="MY HANDS.png"/>
+    <title><strong>Eliza's Resume</strong></title>
+  </head>
+  <body>
+    <h1><strong>Education</strong></h1>
+        <p>Michigan State University</p>
+        <li>Basket Weaving</li>
+    <h1>Experiences</h1>
+      <p>Underwater Weaving Company</p>
+        <ul>
+          <li>Managed company's weave stocks</li>
+        </ul>
+    <h1>Skills</h1>
+      <ul>
+        <li>Coloring</li>
+        <li>Braiding</li>
+        <li>Finger Painting</li>
+      </ul>
+    <h1>
+      <a href="http://www.99lime.com/_bak/topics/you-only-need-10-tags/">Link</a>
+    </h1>
+    </body>
+</html>
