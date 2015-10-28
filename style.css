@@ -1,0 +1,22 @@
+body{
+  padding:20px;
+  background-color: #afb9c3;
+  font: ariel, Helvetica, Sans-serif;
+  line-height: normal;
+  margin: auto;
+}
+h1{
+  font-size:25px;
+  color: #008785;
+}
+h2{
+  font: 18px;
+  color:#56025e;
+}
+li{
+  list-style: none;
+  color: #008785;
+}
+p{
+  color: #00FFD4;
+}
